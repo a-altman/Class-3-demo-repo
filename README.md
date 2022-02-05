@@ -1,1 +1,4 @@
 # Class-3-demo-repo
+Andrew Altman. Graduated from Penn in 2017 with a BA in Economics. Since then, I have been working in financial services; first as a financial advisor with a mid-sized broker dealer in Philly for two years, and for the last two years I have worked in private banking. I hold 6 and 63 licenses.
+My current career goal is to change my path within finance to something more lucrative and fulfilling. I want a project focused role that allows me to create things and work in a team. Basically, anything that's not a client-facing sales/service role would be great.
+I chose fintech because it builds upon my existing financial knowledge but adds significant hard skills in an area that I know is the future of the entire industry. To draw on the allegory from the first class, I don't want to be Rip van Winkle - waking up in twenty years having missed all of this. 
